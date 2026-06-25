@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0000,8B0000,1a1a1a&height=250&section=header&text=Joseph%20Condori&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Data%20Specialist%20%7C%20Cloud%20DevOps%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0000,8B0000,111111&height=250&section=header&text=Joseph%20Condori&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Data%20Specialist%20%7C%20Cloud%20DevOps%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/joseph-christoffer-condori-murga-927563242" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-🕵️‍♂️-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -26,31 +26,38 @@
 
 <h3 align="center">Data Science & Data Engineering</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,postgres,mysql,aws,gcp" />
-</p>
-<p align="center">
-  <i>Modelamiento predictivo, ETL Pipelines, Query Optimization, Joins complejos y modelamiento de bases de datos relacionales/no relacionales.</i>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
 <h3 align="center">DevOps, Cloud & CI/CD</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" />
-</p>
-<p align="center">
-  <i>Contenerización con Docker, despliegues autohospedados utilizando Dokploy, automatización de flujos con GitHub Actions (CI/CD) e infraestructura cloud.</i>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 <h3 align="center">Full Stack Ecosystem (Web & Mobile)</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,nodejs,nestjs,express,flutter,dart" />
-</p>
-<p align="center">
-  <i>Arquitecturas SPA/SSR con dominio fuerte en Angular. Microservicios escalables en backend y desarrollo híbrido mobile con Flutter.</i>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 </p>
 
 <h3 align="center">Game Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 </p>
 
 ---
