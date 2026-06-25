@@ -1,48 +1,69 @@
-# 🚀 ¡Hola! Soy Joseph Christoffer Condori Murga 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Joseph%20Condori&fontSize=70&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=22&descAlignY=65" width="100%" />
+</p>
 
-### 📊 Data Analyst & Data Engineer (Main Focus) | 💻 Full Stack & Mobile Developer | 🎮 Game Developer
-*Profesional enfocado en la ciencia de datos con un sólido ecosistema de desarrollo web, móvil y videojuegos para crear soluciones integrales.*
+<h1 align="center">
+  Hi there! I'm Joseph <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ptb2Z6Y3g0Nmptb3d6Y3g0Nmptb3d6Y3g0Nmptb3d6Y3g0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvXCL7852Eef1ofnpE/giphy.gif" width="35px">
+</h1>
 
----
-
-## 👨‍💼 Sobre mí
-
-* [cite_start]🎯 **Foco Principal:** **Analista de Datos y Data Engineer**[cite: 9, 20]. [cite_start]Especializado en la extracción, transformación (ETL) y modelamiento estadístico con **Python y SQL**[cite: 8, 22].
-* [cite_start]🛠️ **Estudios Actuales:** Cursando la especialización en **Data Engineer Multicloud** en la **Universidad Nacional de Ingeniería (UNI)**[cite: 20, 21].
-* 🌐 **Desarrollo Web:** Amplia experiencia en el Frontend, manejando herramientas como **Next.js, React y Vue**, siendo **Angular** mi framework de mayor dominio. Para el Backend, desarrollo con **Express.js, Nestjs y Next.js**.
-* 📱 **Desarrollo Móvil:** Enfocado en la creación de aplicaciones nativas e híbridas usando **Flutter (con Dart)**, **Android Studio** y **Java**.
-* 🎮 **Videojuegos:** Colaboraciones y experiencia en el desarrollo de videojuegos utilizando **Unity y C#**.
-* [cite_start]🎓 **Formación:** Bachiller en Ingeniería de Sistemas e Informática de la Universidad Continental[cite: 18].
+<p align="center">
+  <a href="https://linkedin.com/in/joseph-christoffer-condori-murga-927563242" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ⚙️ Stack Tecnológico
+## 👨‍💻 Perfil Profesional
 
-### 📊 El Core: Datos e Inteligencia de Negocios
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=sqlite&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 💻 Desarrollo Web (Frontend & Backend)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 📱 Desarrollo Móvil & Videojuegos
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <p>💡 <b>Enfoque Principal:</b> Mi pasión absoluta es el <b>Análisis de Datos y Data Engineering</b>, extrayendo insights clave para la toma de decisiones estratégicas. Actualmente me sigo especializando en la <b>UNI</b> en entornos Multicloud y Big Data.</p>
+      <p>🌐 <b>Ecosistema Web & Móvil:</b> Cuento con un sólido background como desarrollador Full Stack, dominando especialmente <b>Angular</b> en el frontend y arquitecturas escalables en el backend. En el sector móvil, construyo aplicaciones híbridas fluidas con <b>Flutter</b>.</p>
+      <p>🎮 <b>Gaming:</b> He colaborado activamente en el diseño y lógica de videojuegos interactivos utilizando el motor <b>Unity</b>.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm0xd2xtb3N0cm16ZmswNWh0N3R3eDlzMHZ5bzE0Y3BmM3BmaWkyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="220px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Portafolio & Contacto
+## 🛠️ Ecosistema Tecnológico
 
-[![PORTAFOLIO](https://img.shields.io/badge/💼_PORTAFOLIO-black?style=for-the-badge)](URL_DE_TU_PORTAFOLIO)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-christoffer-condori-murga-927563242)
+### 📊 El Core: Data Science & Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sqlite,postgres,aws,gcp" />
+</p>
+
+### 💻 Desarrollo Web Full Stack (Frontend & Backend)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,html,css,nodejs,nestjs,express" />
+</p>
+
+### 📱 Mobile & Videojuegos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,unity,cs" />
+</p>
+
+---
+
+## 📈 Estadísticas Dinámicas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DaikiHajime0&layout=compact&theme=tokyonight&hide_border=false" height="190px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=0DaikiHajime0&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false" height="190px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0DaikiHajime0&theme=tokyonight&hide_border=false" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%" />
+</p>
