@@ -13,15 +13,15 @@
 ## OVERVIEW
 
 <p align="center">
-  [cite_start]<b>Data Specialist & Full Stack Engineer</b> enfocado en el diseño de arquitecturas de datos de alto rendimiento, optimización de motores relacionales y despliegue automatizado de aplicaciones[cite: 6, 7]. [cite_start]Con un perfil híbrido que unifica la analítica avanzada con infraestructura moderna en la nube y metodologías ágiles de desarrollo[cite: 7, 8].
+  <b>Data Specialist & Full Stack Engineer</b> enfocado en el diseño de arquitecturas de datos de alto rendimiento, optimización de motores relacionales y despliegue automatizado de aplicaciones. Con un perfil híbrido que unifica la analítica avanzada con infraestructura moderna en la nube y metodologías ágiles de desarrollo.
 </p>
 
 <p align="center">
-  [cite_start]Huancayo, Perú • Bachiller en Ingeniería de Sistemas e Informática • Especialización Data Engineer Multicloud (UNI) [cite: 1, 2, 3, 4, 20]
+  Huancayo, Perú • Bachiller en Ingeniería de Sistemas e Informática • Especialización Data Engineer Multicloud (UNI)
 </p>
 
 <p align="center">
-  [cite_start]<i>Incondicional de la tradición e historia de la Tuna Continental, llevando la esencia del buen tunar bajo el compás y el espíritu del Tuno Niccolo[cite: 18].</i>
+  <i>Incondicional de la tradición e historia de la Tuna Continental, llevando la esencia del buen tunar bajo el compás y el espíritu del Tuno Niccolo.</i>
 </p>
 
 ---
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=python,sqlite,postgres,mysql,aws,gcp&theme=dark" />
 </p>
 <p align="center">
-  [cite_start]<i>Modelamiento predictivo, ETL Pipelines, Query Optimization, Joins complejos y modelamiento de bases de datos relacionales/no relacionales[cite: 22, 23, 25].</i>
+  <i>Modelamiento predictivo, ETL Pipelines, Query Optimization, Joins complejos y modelamiento de bases de datos relacionales/no relacionales.</i>
 </p>
 
 <h3 align="center">DevOps, Cloud & CI/CD</h3>
@@ -55,6 +55,14 @@
 <h3 align="center">Game Development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" />
+</p>
+
+---
+
+## SNAKE CONTRIBUTION GRID
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0DaikiHajime0/0DaikiHajime0/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
 
 ---
