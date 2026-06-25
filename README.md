@@ -13,15 +13,15 @@
 ## OVERVIEW
 
 <p align="center">
-  <b>Data Specialist & Full Stack Engineer</b> enfocado en el diseño de arquitecturas de datos de alto rendimiento, optimización de motores relacionales y despliegue automatizado de aplicaciones. Con un perfil híbrido que unifica la analítica avanzada con infraestructura moderna en la nube y metodologías ágiles de desarrollo.
+  [cite_start]<b>Data Specialist & Full Stack Engineer</b> enfocado en el diseño de arquitecturas de datos de alto rendimiento, optimización de motores relacionales y despliegue automatizado de aplicaciones[cite: 6, 7]. [cite_start]Con un perfil híbrido que unifica la analítica avanzada con infraestructura moderna en la nube y metodologías ágiles de desarrollo[cite: 7, 8].
 </p>
 
 <p align="center">
-  Huancayo, Perú • Bachiller en Ingeniería de Sistemas e Informática • Especialización Data Engineer Multicloud (UNI)
+  [cite_start]Huancayo, Perú • Bachiller en Ingeniería de Sistemas e Informática • Especialización Data Engineer Multicloud (UNI) [cite: 1, 2, 3, 4, 20]
 </p>
 
 <p align="center">
-  <i>Incondicional de la tradición e historia de la Tuna Continental, llevando la esencia del buen tunar bajo el compás y el espíritu del Tuno Niccolo.</i>
+  [cite_start]<i>Incondicional de la tradición e historia de la Tuna Continental, llevando la esencia del buen tunar bajo el compás y el espíritu del Tuno Niccolo[cite: 18].</i>
 </p>
 
 ---
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=python,sqlite,postgres,mysql,aws,gcp&theme=dark" />
 </p>
 <p align="center">
-  <i>Modelamiento predictivo, ETL Pipelines, Query Optimization, Joins complejos y modelamiento de bases de datos relacionales/no relacionales.</i>
+  [cite_start]<i>Modelamiento predictivo, ETL Pipelines, Query Optimization, Joins complejos y modelamiento de bases de datos relacionales/no relacionales[cite: 22, 23, 25].</i>
 </p>
 
 <h3 align="center">DevOps, Cloud & CI/CD</h3>
@@ -68,15 +68,15 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DaikiHajime0&layout=compact&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&hide_border=false" height="185px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DaikiHajime0&layout=normal&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&hide_border=false" height="195px" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=0DaikiHajime0&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&rank_icon=github&hide_border=false" height="185px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0DaikiHajime0&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&rank_icon=github&hide_border=false" height="195px" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VIOLIN-MUSIC-8B0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/NICCOLO-%238A2BE2?style=for-the-badge" />
 </p>
 
 <p align="center">
