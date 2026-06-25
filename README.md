@@ -62,7 +62,7 @@
 ## SNAKE CONTRIBUTION GRID
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0DaikiHajime0/0DaikiHajime0/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
