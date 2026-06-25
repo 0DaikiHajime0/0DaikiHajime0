@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0000,8B0000,111111&height=250&section=header&text=Joseph%20Condori&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Data%20Specialist%20%7C%20Cloud%20DevOps%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF0000,8B0000,111111&height=250&section=header&text=Joseph%20Christoffer%20Condori%20Murga&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Data%20Specialist%20%7C%20Cloud%20DevOps%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
@@ -17,7 +17,11 @@
 </p>
 
 <p align="center">
-  [cite_start]Huancayo, Perú • Bachiller en Ingeniería de Sistemas e Informática [cite: 3, 4] [cite_start]• Especialización Data Engineer Multicloud (UNI) [cite: 20]
+  Huancayo, Perú • Bachiller en Ingeniería de Sistemas e Informática • Especialización Data Engineer Multicloud (UNI)
+</p>
+
+<p align="center">
+  <i>Incondicional de la tradición e historia de la Tuna Continental, llevando la esencia del buen tunar bajo el compás y el espíritu del Tuno Niccolo.</i>
 </p>
 
 ---
@@ -70,6 +74,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VIOLIN-MUSIC-8B0000?style=flat-square" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ6MXQ2Y3oxNThzYng1bTZ6MXQ2Y3oxNThzYng1bTZ6MXQ2Y3omZXA1djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PXNf/3og0IExvM9P8L3Zf1K/giphy.gif" width="100%" height="15px" />
