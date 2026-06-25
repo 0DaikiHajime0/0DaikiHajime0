@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Huancayo, Perú • Bachiller en Ingeniería de Sistemas e Informática • Especialización Data Engineer Multicloud (UNI)
+  [cite_start]Huancayo, Perú • Bachiller en Ingeniería de Sistemas e Informática [cite: 3, 4] [cite_start]• Especialización Data Engineer Multicloud (UNI) [cite: 20]
 </p>
 
 ---
@@ -26,38 +26,31 @@
 
 <h3 align="center">Data Science & Data Engineering</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,postgres,mysql,aws,gcp&theme=dark" />
+</p>
+<p align="center">
+  <i>Modelamiento predictivo, ETL Pipelines, Query Optimization, Joins complejos y modelamiento de bases de datos relacionales/no relacionales.</i>
 </p>
 
 <h3 align="center">DevOps, Cloud & CI/CD</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=dark" />
+</p>
+<p align="center">
+  <i>Contenerización con Docker, despliegues autohospedados utilizando Dokploy, automatización de flujos con GitHub Actions (CI/CD) e infraestructura cloud.</i>
 </p>
 
 <h3 align="center">Full Stack Ecosystem (Web & Mobile)</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,nodejs,nestjs,express,flutter,dart&theme=dark" />
+</p>
+<p align="center">
+  <i>Arquitecturas SPA/SSR con dominio fuerte en Angular. Microservicios escalables en backend y desarrollo híbrido mobile con Flutter.</i>
 </p>
 
 <h3 align="center">Game Development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" />
 </p>
 
 ---
@@ -65,13 +58,15 @@
 ## METRICS & ACTIVITY
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0DaikiHajime0&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&sideNums=FF0000&sideTitle=ffffff&stroke=FF0000&hide_border=false" width="100%" />
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0DaikiHajime0&layout=compact&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&hide_border=false" height="185px" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=0DaikiHajime0&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&rank_icon=github&hide_border=false" height="185px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0DaikiHajime0&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&stroke=FF0000&hide_border=false" width="100%" />
 </p>
 
 ---
